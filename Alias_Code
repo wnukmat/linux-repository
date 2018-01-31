@@ -1,0 +1,18 @@
+##########################################
+#    Common Input
+##########################################
+alias sagi="sudo apt-get install"
+alias sagu="sudo apt-get update"
+alias clc="clear"
+alias ..="cd .."
+
+##########################################
+#    Access Important Files
+##########################################
+alias code="gedit ~/.bash_aliases"
+alias roshelp="gedit ~/ROS_Cheats"
+
+##########################################
+#    Access Directory Files
+##########################################
+alias aero="cd ~/Desktop/Intel-Aero"
